@@ -5,8 +5,6 @@
   <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
-🖥️<a href="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" >View my Dashboard</a>
-
 
  #Summary
 
