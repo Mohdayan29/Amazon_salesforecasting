@@ -27,8 +27,13 @@ While North America and Europe dominate in sales volume, the map reveals growth 
 
 Recommendations:
 
-Market Expansion: Amazon should invest more in advertising and building better delivery systems in Asia Pacific and the US/Canada. These are their strongest markets with lots of potential customers. Focus on Consumer Products: Given the significant contribution of the Consumer segment, Amazon should focus on enhancing its consumer offerings, improving customer experience, and exploring new product lines or services tailored to consumer needs.
+Market Expansion: Amazon should invest more in advertising and building better delivery systems in Asia Pacific and the US/Canada. These are their strongest markets with lots of potential customers. Focus on
+
+Consumer Products: Given the significant contribution of the Consumer segment, Amazon should focus on enhancing its consumer offerings, improving customer experience, and exploring new product lines or services tailored to consumer needs.
+
 Review Product Profits: Amazon should carefully look at why some products make a lot of profit while others don't. They may need to adjust prices, improve delivery, or change which products they sell to make more money.
+
 Sell in New Countries: While continuing to sell in their current big markets, Amazon should also look for new countries with lots of potential customers. They may need to adapt their products and marketing for these new markets.
+
 Use Data to Make Decisions: Amazon should use the interactive dashboard to constantly check sales numbers, customer preferences, and market trends. This will help them make good decisions and quickly adapt their strategies as things change.
 
