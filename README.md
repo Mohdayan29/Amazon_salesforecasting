@@ -3,12 +3,16 @@
 Summary
 
 This Power BI Dashboard offers an interactive analysis of Amazon's global sales data, enabling users to delve into and evaluate various business aspects by engaging with distinct sections. The figures and visualizations presented are dynamic and will automatically adjust according to the user's selections.
+
 Sales Projection
 This feature illustrates the estimated sales volume, which adapts in response to the chosen filters or parameters. The sections for Product Unit, KPI, and Return present the total number of units sold, a key performance indicator, and the return value, respectively, all of which are updated dynamically based on user interaction.
+
 Sales by Segment
 This pie chart displays the breakdown of sales across segments (Consumer, Corporate, and Home Office). The chart slices adjust their size relative to the applied filters.
+
 Sales by Market
 The chart provides a visual representation of sales distribution across different geographic markets (Asia Pacific, Europe, USCA, LATAM, and Africa). The chart's segments resize dynamically as users explore various scenarios.
+
 Sales by Region
 The world map presents sales volume across different regions, with bubble sizes corresponding to the sales volume. These bubbles shift in size and location according to the selected filters.
 Profit by Customer Name
