@@ -1,6 +1,16 @@
 # Interactive Analysis of Amazon's Global Sales | Power BI
+<h1 align="center">Amazon Global Sales Analysis using PowerBI Dashboard</h1>
+<p>
+  <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" />
+  <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
 
-Summary
+🖥️<a href="https://app.powerbi.com/view?r=eyJrIjoiMzI4ODc2MWEtNDM4Zi00YjgxLTgyMGUtMTA5ZTkxODBlNGRiIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9" >View my Dashboard</a>
+
+! [image]((https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white))
+
+
+##Summary
 
 This Power BI Dashboard offers an interactive analysis of Amazon's global sales data, enabling users to delve into and evaluate various business aspects by engaging with distinct sections. The figures and visualizations presented are dynamic and will automatically adjust according to the user's selections.
 
@@ -21,7 +31,7 @@ Bottom 5 Profit by Product and Top 5 Profit by Product
 These charts display the five products with the lowest and highest profit margins. Both the products and their corresponding bar lengths adjust dynamically based on user input.
 
 
-Key Insights
+##Key Insights
 
 Amazon's largest sales volumes are observed in the Asia Pacific and US/Canada regions, making them the company’s strongest markets.
 The majority of Amazon’s sales come from individual consumers rather than from businesses or offices.
@@ -29,7 +39,7 @@ Profitability varies significantly among Amazon products, with some generating s
 While North America and Europe dominate in sales volume, the map reveals growth opportunities in other global regions.
 
 
-Recommendations:
+##Recommendations:
 
 Market Expansion: Amazon should invest more in advertising and building better delivery systems in Asia Pacific and the US/Canada. These are their strongest markets with lots of potential customers. Focus on
 
