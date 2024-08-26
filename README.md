@@ -6,8 +6,6 @@
 </p>
 🖥️<a href="https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi" >View my Dashboard</a>
 
-![image](https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi)
-
  #Summary
 
 This Power BI Dashboard offers an interactive analysis of Amazon's global sales data, enabling users to delve into and evaluate various business aspects by engaging with distinct sections. The figures and visualizations presented are dynamic and will automatically adjust according to the user's selections.
