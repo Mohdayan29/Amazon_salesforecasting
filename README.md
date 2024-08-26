@@ -4,7 +4,7 @@
   <img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" />
   <img alt="MicrosoftExcel" src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
-🖥️<a href="[https://app.powerbi.com/view?r=eyJrIjoiMzI4ODc2MWEtNDM4Zi00YjgxLTgyMGUtMTA5ZTkxODBlNGRiIiwidCI6Ijk2NDY0YThhLWY4ZWQtNDBiMS05OWUyLTVmNmI1MGEyMDI1MCIsImMiOjN9](https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi)" >View my Dashboard</a>
+🖥️<a href="https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi" >View my Dashboard</a>
 
 
  #Summary
