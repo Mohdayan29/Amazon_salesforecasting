@@ -6,6 +6,7 @@
 </p>
 🖥️<a href="https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi" >View my Dashboard</a>
 
+![image](https://app.powerbi.com/groups/me/reports/95432b3e-6cba-4c6d-a9ac-d94439f51917/4cc3bea85ae056eac9eb?experience=power-bi)
 
  #Summary
 
